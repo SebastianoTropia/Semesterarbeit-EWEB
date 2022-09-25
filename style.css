@@ -133,6 +133,7 @@
     .about > h1 {
     font-size: 30px;
     padding-bottom: 20px;
+    margin-right: 100px;
     }
     
     .about > img {
@@ -143,9 +144,9 @@
     object-fit: cover;
     }
     
-    .about > p {
+    .about > h2 {
     font-size: 18px;
-    margin: 10px 200px;
+    margin: 10px 20px;
     padding-bottom: 10px;
     line-height: 25px;
     }
@@ -156,6 +157,8 @@
     text-decoration: none;
     border: solid white 1px;
     padding: 5px 20px;
+    margin-right: 100px;
+    margin-left: 100px;
     }
     
     .about > a:hover {
@@ -169,6 +172,7 @@
         padding: 30px 0px;
     }
     .contact-info{ 
+        margin-left: 100px;
         margin-right: 100px;
     }
     
