@@ -729,7 +729,7 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #dff3fc;
+  background: #149ddd;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -779,7 +779,7 @@ section {
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #149ddd;
+  background: #97d9ff;
 }
 
 .contact .php-email-form {
@@ -871,7 +871,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #37b3ed;
+  background: #97d9ff;
 }
 
 @-webkit-keyframes animate-loading {
@@ -899,7 +899,6 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 20px 0;
-  background: #f9f9f9;
 }
 
 .breadcrumbs h2 {
