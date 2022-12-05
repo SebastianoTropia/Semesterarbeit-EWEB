@@ -622,6 +622,8 @@ section {
   bottom: 0;
 }
 
+
+
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
@@ -928,10 +930,6 @@ section {
   z-index: 9999;
   background: black;
   color: white;
-}
-
-#footer .copyright {
-  text-align: center;
 }
 
 #footer .credits {
